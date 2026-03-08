@@ -1,5 +1,6 @@
----
-trigger: always_on
+## 0. 전사 공통 운영 규칙 (Global Operations)
+1. **준비 시 최신화 (Mandatory Pull on Prepare)**: 모든 팀의 팀장(에이전트)은 '준비' 혹은 '작업 준비' 지시를 받으면 즉시 본인 프로젝트 폴더에서 `git pull`을 수행하여 로컬 환경을 최신 상태로 동기화해야 한다.
+
 ---
 
 # 작가팀 운영 지침 (Writer Team SOP)
